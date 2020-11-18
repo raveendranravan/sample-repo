@@ -4,9 +4,6 @@ import sys
 
 import requests
 
-name = input("Your name?")
-print("Hi,", name)
-
 print(sys.version)
 print(sys.executable)
 
